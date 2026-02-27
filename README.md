@@ -4,6 +4,8 @@ By Stephen C. Webster, Senior Director of Integrated Intelligence at Aquent Stud
 
 Last month, I published an essay called “The Socratic Paintbrush” about a method I’d discovered for building software with AI, and the core idea was deceptively simple: instead of giving AI instructions, ask it questions, then let the inquiry build context, let the context become a plan, and let the plan become software. The response was overwhelming, with hundreds of developers trying the method and many of them messaging me directly about their results.
 
+You can read that essay right here: https://www.linkedin.com/pulse/introducing-socratic-paintbrush-most-powerful-way-build-webster-be13c/
+
 But something happened as I applied the Paintbrush to increasingly complex builds: the method evolved, growing layers, structure, safety mechanisms, and an orchestration system that can run dozens of parallel AI agents across months of development, until what started as a technique became a complete operating system for AI-driven software development.
 
 The Paintbrush was the tool, and what I’m sharing today is the Forge.
