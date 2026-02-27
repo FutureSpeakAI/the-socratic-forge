@@ -1,6 +1,6 @@
 The Socratic Forge: How I Taught My AI Agents to Develop Software Like a Journalist Develops a Story
 
-Stephen C. Webster Senior Director of Integrated Intelligence at Aquent Studios | Trained Gemini and Bard at Google | Accenture alum | Former journalist
+By Stephen C. Webster, Senior Director of Integrated Intelligence at Aquent Studios | Trained Gemini and Bard at Google | Accenture alum | Former journalist
 
 Last month, I published an essay called “The Socratic Paintbrush” about a method I’d discovered for building software with AI, and the core idea was deceptively simple: instead of giving AI instructions, ask it questions, then let the inquiry build context, let the context become a plan, and let the plan become software. The response was overwhelming, with hundreds of developers trying the method and many of them messaging me directly about their results.
 
